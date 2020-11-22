@@ -1,8 +1,7 @@
 ### ¡Buenas! 👋
 
 # Bienvenido a mi GitHub, actualmente estoy aprendiendo Java, para poder hacer plugins de Spigot/Bukkit/PaperSpigot (los 3 son lo mismo)
-> Cuento con conocimientos en HTML, CSS y JS
-> Soy muy atrevido y pillo y lo que me sale de la cabeza lo hago, asi aprendi a programar xD
+> Cuento con conocimientos en HTML, CSS y JS\nSoy muy atrevido y pillo y lo que me sale de la cabeza lo hago, asi aprendi a programar xD
 
 ----------------------------------------------
 ## Mi Informacion:
