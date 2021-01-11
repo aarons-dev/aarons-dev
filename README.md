@@ -10,5 +10,5 @@
 - 👯 Quisiera colaborar con buenos programadores de plugins de Spigot
 - 🤔 Estoy buscando ayuda actualmente con nada.
 - 💬 Me puedes preguntar sobre programacion y sistemas.
-- 📫 Forma de contacto: aarons.dev@gmail.com
+- 📫 Forma de contacto: t.aarons.dev@gmail.com
 - ⚡ Dato curioso: He arreglado mi ordenador mas de 15 veces, y sigo usando el mismo xD
