@@ -8,7 +8,7 @@
 - 🔭 Actualmente estoy trabajando en una Network de Minecraft
 - 🌱 Actualmente estoy aprendiendo Java
 - 👯 Quisiera colaborar con buenos programadores de plugins de Spigot
-- 🤔 Estoy buscando ayuda actualmente con nada.
+- 🤔 Actualmente no estoy buscando ayuda en nada.
 - 💬 Me puedes preguntar sobre programacion y sistemas.
 - 📫 Forma de contacto: t.aarons.dev@gmail.com
 - ⚡ Dato curioso: He arreglado mi ordenador mas de 15 veces, y sigo usando el mismo xD
